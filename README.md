@@ -27,7 +27,7 @@
 <p align="center">
   <h1>Doom no readme</h1>
   Oi, eu sou o pixelcatBR, achei esse projeto bem legal chamado DoomMe e decidi deixar ele de readme especial.
-  créditos há:
+  créditos a:
     Kuberwastaken,
     ID Software for DOOM 1993 and the WAD file,
     Omgifol - WAD parser,
