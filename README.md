@@ -1,4 +1,6 @@
-
+<p align="center">
+  <h1>Jogue Doom:</h1></h1>
+</p>
 <p align="center">
 <img src="/assets/doom_-128_-2880_0.webp" alt="E1M1 - East" width="640">
 </p>
