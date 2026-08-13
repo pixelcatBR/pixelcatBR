@@ -5,18 +5,18 @@
 <table align="center">
 <tr>
 <td align="center" width="80"><span style="opacity:0.3">↖️</span></td>
-<td align="center" width="80"><a href="-64_-2880_0.md">⬆️</a></td>
-<td align="center" width="80"><a href="-64_-2944_0.md">↗️</a></td>
+<td align="center" width="80"><a href="game/-64_-2880_0.md">⬆️</a></td>
+<td align="center" width="80"><a href="game/-64_-2944_0.md">↗️</a></td>
 </tr>
 <tr>
-<td align="center" width="80"><a href="-128_-2880_90.md">⬅️</a></td>
-<td align="center" width="80"><a href="-128_-2880_0.md">💥</a></td>
-<td align="center" width="80"><a href="-128_-2880_270.md">➡️</a></td>
+<td align="center" width="80"><a href="game/-128_-2880_90.md">⬅️</a></td>
+<td align="center" width="80"><a href="game/-128_-2880_0.md">💥</a></td>
+<td align="center" width="80"><a href="game/-128_-2880_270.md">➡️</a></td>
 </tr>
 <tr>
 <td align="center" width="80"><span style="opacity:0.3">↙️</span></td>
-<td align="center" width="80"><a href="-192_-2880_0.md">⬇️</a></td>
-<td align="center" width="80"><a href="-192_-2944_0.md">↘️</a></td>
+<td align="center" width="80"><a href="game/-192_-2880_0.md">⬇️</a></td>
+<td align="center" width="80"><a href="game/-192_-2944_0.md">↘️</a></td>
 </tr>
 </table>
 
