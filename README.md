@@ -1,16 +1,5 @@
 
 <p align="center">
-  <h1>Doom no readme</h1>
-  Oi, eu sou o pixelcatBR, achei esse projeto bem legal chamado DoomMe e decidi deixar ele de readme especial.
-  créditos há:
-    Kuberwastaken,
-    ID Software for DOOM 1993 and the WAD file,
-    Omgifol - WAD parser,
-    VizDoom - Doom AI,
-    Ultimate DOOM Builder - WAD editor
-
-</p>
-<p align="center">
 <img src="/assets/doom_-128_-2880_0.webp" alt="E1M1 - East" width="640">
 </p>
 
@@ -34,4 +23,15 @@
 
 <p align="center">
 <sub>🧭 East | <a href="../README.md">🏠 Menu</a></sub>
+</p>
+<p align="center">
+  <h1>Doom no readme</h1>
+  Oi, eu sou o pixelcatBR, achei esse projeto bem legal chamado DoomMe e decidi deixar ele de readme especial.
+  créditos há:
+    Kuberwastaken,
+    ID Software for DOOM 1993 and the WAD file,
+    Omgifol - WAD parser,
+    VizDoom - Doom AI,
+    Ultimate DOOM Builder - WAD editor
+
 </p>
